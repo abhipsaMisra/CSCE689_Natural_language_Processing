@@ -6,4 +6,4 @@ Programming Assignments and Final Project for CSCE689 - Natural Language Process
 3. PA3 - Part-of-speech tagging using Bigram Viterbi Algorithm
 4. PA4 - Sentiment Analysis using Sentiment Phrasal Lexicon
 
-* Final Project - Coreference Resolution using Multi-Seive Algorithm with 5 passes
+* Final Project - Coreference Resolution using Multi-Sieve Algorithm with 5 passes
