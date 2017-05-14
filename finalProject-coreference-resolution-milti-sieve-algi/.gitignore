@@ -1,0 +1,9 @@
+# OS generated files #
+######################
+.git
+.idea
+
+
+# Compiled source #
+###################
+*.pyc

@@ -1,0 +1,15 @@
+<TXT>
+<COREF ID="1" REF="4">Communications Satellite Corp., Washington</COREF>
+<COREF ID="3">it</COREF>
+<COREF ID="4" REF="5">Comsat</COREF>
+<COREF ID="5" REF="4">Comsat</COREF>
+<COREF ID="6" REF="10">AT@amp;T</COREF>
+<COREF ID="7" REF="4">Comsat</COREF>
+<COREF ID="8">the telephone company</COREF>
+<COREF ID="9" REF="4">Comsat</COREF>
+<COREF ID="10" REF="6">AT@amp;T</COREF>
+<COREF ID="11" REF="13">the new digital service</COREF>
+<COREF ID="12">the price reductions</COREF>
+<COREF ID="13" REF="11">Digital service</COREF>
+<COREF ID="14" REF="4">Comsat</COREF>
+</TXT>

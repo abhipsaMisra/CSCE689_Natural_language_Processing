@@ -1,0 +1,51 @@
+<TXT>
+<COREF ID="1">FLIGHT-INSTRUCTO</COREF>
+<COREF ID="2" REF="17">REID</COREF>
+<COREF ID="3">FLIGHT-INSTRUCTOR</COREF>
+<COREF ID="4" REF="6">JOE REID</COREF>
+<COREF ID="6" REF="4">Joe Reid</COREF>
+<COREF ID="53" REF="10">he</COREF>
+<COREF ID="10" REF="53">he</COREF>
+<COREF ID="11" REF="12">his</COREF>
+<COREF ID="12" REF="11">his</COREF>
+<COREF ID="13">manager</COREF>
+<COREF ID="15" REF="22">He</COREF>
+<COREF ID="16" REF="6">a real by-the-book guy</COREF>
+<COREF ID="17" REF="2">Reid</COREF>
+<COREF ID="18" REF="17">a broker at the Dean Witter Reynolds office in Palo Alto</COREF>
+<COREF ID="19" REF="49">president of the Half Moon Bay Pilots Association</COREF>
+<COREF ID="20">a longtime friend</COREF>
+<COREF ID="22" REF="15">he</COREF>
+<COREF ID="23" REF="2">Reid</COREF>
+<COREF ID="24" REF="15">He</COREF>
+<COREF ID="25" REF="2">Reid</COREF>
+<COREF ID="26">a Vietnam veteran</COREF>
+<COREF ID="27" REF="11">his</COREF>
+<COREF ID="28">an instructor</COREF>
+<COREF ID="29" REF="25">the plane</COREF>
+<COREF ID="30">a 1975 single-engine Cessna 177B Cardinal</COREF>
+<COREF ID="31" REF="15">He</COREF>
+<COREF ID="32" REF="33">flying</COREF>
+<COREF ID="33" REF="32">flying</COREF>
+<COREF ID="34">Auld</COREF>
+<COREF ID="35" REF="4">Joe</COREF>
+<COREF ID="36" REF="2">Reid</COREF>
+<COREF ID="37">Jessica</COREF>
+<COREF ID="38" REF="40">her</COREF>
+<COREF ID="39" REF="41">I</COREF>
+<COREF ID="40" REF="38">her</COREF>
+<COREF ID="41" REF="39">I</COREF>
+<COREF ID="42" REF="15">he</COREF>
+<COREF ID="43" REF="37">she</COREF>
+<COREF ID="44" REF="32">flying</COREF>
+<COREF ID="46" REF="2">Reid</COREF>
+<COREF ID="47">``an exceptional, competent pilot.''</COREF>
+<COREF ID="48" REF="2">Reid</COREF>
+<COREF ID="49" REF="19">Half Moon Bay</COREF>
+<COREF ID="50" REF="15">He</COREF>
+<COREF ID="51" REF="49">a member of the San Mateo County Airport Land Use Committee</COREF>
+<COREF ID="52" REF="19">chairman of the annual Half Moon Bay Fly-In and Air Show</COREF>
+<COREF ID="57">active parishioners</COREF>
+<COREF ID="58" REF="52">They</COREF>
+<COREF ID="62">04-12-96</COREF>
+</TXT>
